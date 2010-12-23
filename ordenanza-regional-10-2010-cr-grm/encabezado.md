@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+N° 10-2010-CR/GRM
+Fecha, 15 de octubre de 2010
+VISTO:
+En Sesión Ordinaria Nº 10-2010-CR, del Consejo Regional Moquegua, de fecha 15 de Octubre del 2010, se trato entre otros, como punto de Agenda: Aprobación del Reglamento de Organización y Funciones- ROF y del Cuadro para Asignación de Personal – CAP, de la Unidad Ejecutora, Gerencia Sub Regional de Desarrollo Ilo.
+CONSIDERANDO:
+Que, según el Art. 179 de la Constitución Política del Perú, y el Art. 2 de la Ley Orgánica de los Gobiernos Regionales, Ley Nº 27867, establecen que los Gobiernos Regionales emanan de la voluntad popular, son personas jurídicas de derecho público con autonomía política, económica y administrativa, en los asuntos de su competencia, en el marco de las políticas nacionales y sectoriales, para la contribución al desarrollo integral.
+Que, el Art. 38 de la Ley 27867, Ley Orgánica de los Gobiernos Regionales establece que las ordenanzas regionales, norman asuntos de carácter general, la organización y administración del Gobierno Regional y reglamentan materias de su competencia.
+Que, el Consejo Regional en las facultades de ley aprueba mediante Ordenanzas Regionales, entre otros, los documentos de gestión que correspondan a sus Órganos Desconcentrados, en observación a lo establecido en el Decreto Supremo Nº 043-2004-PCM.
+Que, mediante INFORME Nº 244-2010-GR.M / GSR.ILO. UE 003 MOQ. el Gerente de la Gerencia Sub. Regional de Ilo, alcanza el Expediente final corregido del Reglamento de Organización y Funciones, así como el Cuadro de Asignación de Personal de la Gerencia Subregional de Desarrollo de Ilo, para su aprobación mediante Ordenanza Regional, el mismo que consta de setenta folios en forma total.
+Que, según INFORME Nº 326-2010-DRAJ/GRM, de la Dirección Regional de Asesoría Jurídica e INFORME Nº 147-2010-ODI-GRPPAT/GR.MOQ., de la Oficina de Desarrollo Institucional, se emiten opinión legal y Técnica favorable, en relación a los documentos de gestión ROF y CAP, presentados por la Gerencia Subregional de Desarrollo de Ilo, Unidad Ejecutora Presupuestal conformante del Pliego 455 / Gobierno Regional Moquegua a partir del ejercicio fiscal 2010.
+Por lo que en uso de las facultades concedidas por los artículos 13°, 37° inciso a) de la Ley N° 27867, Ley Orgánica de los Gobiernos Regionales, modificado por la Ley N° 27902, Ley N° 28968 y la Ley N° 29053; inciso a) del artículo 14° del Nuevo Reglamento Interno del Consejo Regional, aprobado mediante Ordenanza Regional N° 009-2006-CR/GRM, estando a lo acordado y aprobado por mayoria en Sesión Ordinaria de Consejo Regional Moquegua N° 10-2010;
+ORDENA:
