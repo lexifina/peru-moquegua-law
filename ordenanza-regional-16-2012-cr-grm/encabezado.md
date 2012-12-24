@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 16 -2012-CR /GRM
+Fecha: 4 de octubre del 2012
+VISTO:
+En sesión ordinaria de fecha 04 de octubre del 2012 se tuvo a la vista el Dictamen Nº 08-2012-CO-DECTPE/ CR-GR.MOQ sobre la derogación de la Ordenanza Nº 04-2012-CR/GRM que modificó el artículo segundo de la Ordenanza Regional Nº 16-2011-CR/GRM; y,
+CONSIDERANDO:
+Que, de acuerdo al artículo 191º de la Constitución Política del Perú, reformado por la Ley Nº 28607, y lo dispuesto por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, el Gobierno Regional de Moquegua es persona jurídica de derecho público, con autonomía política, económica y administrativa en asuntos de su competencia, con jurisdicción en el ámbito de la circunscripción territorial del departamento de Moquegua;
+Que, mediante Ordenanza Regional Nº 16-2011-CR/ GRM, se crea el Consejo Regional de Fomento Artesanal de Moquegua-COREFAR MOQUEGUA y en su segundo artículo sólo se establece que el Ejecutivo disponga la composición de dicho consejo; sin embargo DIRCETUR solicitó se establezca su integración o composición, a semejanza de las normas regionales dadas en otras regiones; por lo que con Ordenanza Regional Nº 04-2012-CR/GRM se modifica dicho artículo segundo, estableciendo la composición del COREFAR MOQUEGUA;
+Que, con Oficio Nº 866-2012-CR-M/DIRCETUR-MOQ/ D.A, la Dirección Regional de Comercio Exterior y Turismo, remite el Informe Nº 148-2012-GR-M/DIRCETUR-MOQ/D.A. con el cual se hace conocer una serie de inconvenientes presentados para la implementación de la Ordenanza Regional Nº 04-2012-CR/GRM, por lo que se propone modificar las entidades integrantes y el número de representantes; por lo que, con Informe Nº 232-2012-DRAJ/CR.MOQ. la Dirección Regional de Asesoría Jurídica opina que la Ordenanza Regional Nº 04-2012-CR/ GRM debe ser derogada, en mérito a lo dispuesto en el inciso a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, por el cual el Consejo Regional tiene atribuciones para aprobar, modificar o derogar las normas que regulan o reglamentan los asuntos y materia de competencia y funciones del Gobierno Regional, como es aquella que está establecida en el numeral 12.3 del artículo 12º de la Ley Nº 29073; debiéndose modificar el artículo 2º de la Ordenanza Regional Nº 16-2011-CR/ GRM, integrando el COREFAR de acuerdo a la propuesta consensuada con el área ejecutiva;
+Estando a lo acordado y aprobado por unanimidad, en Sesión Ordinaria Nº 10-2012-CR/GRM, de fecha 04 de octubre del 2012, con dispensa del trámite de lectura y aprobación del Acta, el consejo Regional del Gobierno Regional de Moquegua en uso de sus facultades y atribuciones conferidas por la constitución Política del Perú y la ley Orgánica de los Gobiernos Regionales;
+Ha dado la Ordenanza Regional siguiente:
+ORDENANZA QUE DEROGA LA ORDENANZA REGIONAL Nº 04-2012-CR/GRM Y MODIFICA LA ORDENANZA REGIONAL Nº 16-2011-CR/GRM QUE
+DETERMINA LA COMPOSICIÓN DEL COREFAR
+MOQUEGUA
