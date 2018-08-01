@@ -1,0 +1,1 @@
+Artículo Tercero.- NOTIFICAR la presente Resolución a las oficinas competentes de la Sede Central del Gobierno Regional de Moquegua, Unidades Orgánicas y Dependencias del Pliego para los fines pertinentes.
