@@ -1,0 +1,1 @@
+Artículo tercero.- ENCARGAR a la Comisión Técnica Regional de Zonificación Ecológica, Económica y de Instrumentos Técnicos Sustentatorios del Ordenamiento Territorial del Departamento Moquegua, adecuar el Reglamento Interno de la Comisión Técnica Regional aprobado mediante Decreto Regional Nº 002-2018-GR/ MOQ.
