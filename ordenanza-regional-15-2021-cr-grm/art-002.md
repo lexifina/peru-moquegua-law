@@ -1,0 +1,1 @@
+Artículo Segundo.- RECOMENDAR el desarrollo de otras estrategias y tecnologías similares y/o iguales al programa citado, para garantizar el agua para uso poblacional y agrícola en toda la región Moquegua.
