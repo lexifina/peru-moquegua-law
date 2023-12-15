@@ -1,0 +1,11 @@
+Artículo 99-B.- Son funciones de la Subgerencia de la Juventud
+1. Formular y proponer las políticas y estrategias relacionadas con el desarrollo integral de la juventud.
+2. Promover el desarrollo integral de la juventud para el logro de su bienestar físico, psicológico, social y espiritual, así como, el cultivo de valores éticos y morales y la participación activa en la vida política, social, cultural y económica en la región.
+3. Promover las oportunidades de vinculación laboral de los jóvenes y el desarrollo de programas de emprendimiento y generación de ingresos, principalmente a través de la formación y capacitación para el trabajo y la implementación de iniciativas productivas.
+4. Formular planes y proponer la formulación de programas y proyectos que atiendan las demandas y aspiraciones de la juventud desde una visión regional, canalizarlos a través de las distintas instancias públicas, privadas o de la Cooperación Técnica Internacional, así como, monitorear, informar y evaluar su desarrollo e implementación.
+5. Ejecutar programas juveniles que conduzcan al desarrollo social, económico, político y cultural como actores protagónicos de las iniciativas, sin discriminación alguna por razón de raza, sexo, idioma, religión, opinión, condición económica, social, educativa, cultural, étnica, discapacidad física, mental y/o condición de riesgo social, cuyos logros deben ser reconocidos por el Estado.
+6. Ejercer la Secretaría Técnica del Consejo Regional de la Juventud (COREJU), brindándole asistencia técnica y logística, y apoyando las gestiones administrativas y a los acuerdos y el plan de trabajo del COREJU y demás funciones de acuerdo a la normatividad vigente.
+7. Promover y fortalecer en coordinación con las entidades públicas y organizaciones de la sociedad civil, los mecanismos de participación de la juventud organizada; promoviendo actividades de carácter recreativo, deportivo, artístico, cultural, social y otros para lograr una participación sana y efectiva que contribuya al desarrollo espiritual, físico, psicológico y social de la población joven.
+8. Promover la creación de organizaciones de jóvenes y apoyar en las gestiones para su inscripción en el registro correspondiente.
+9. Elaborar y evaluar su plan operativo correspondiente.
+10. Otras funciones que le asigne el superior.”
