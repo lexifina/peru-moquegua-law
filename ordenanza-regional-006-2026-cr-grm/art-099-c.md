@@ -1,0 +1,2 @@
+ARTÍCULO 99-C
+La Oficina Regional de Atención a la Persona con Discapacidad es la unidad orgánica responsable de formular, planificar, dirigir, coordinar, ejecutar, supervisar y evaluar las políticas y programas regionales según las necesidades e intereses de las personas con discapacidad; asimismo, administrar el Registro Regional de la persona con discapacidad en el ámbito de su jurisdicción. Depende jerárquica, funcional y administrativamente de la Gerencia Regional de Desarrollo Social.
