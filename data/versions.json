@@ -2142,6 +2142,552 @@
      "sha256": "60efe923acb549711d6ce49f7d268e056045e7f4814c0164f0c27070a45a9d47"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-26-2012-cr-grm",
+   "short": "Ordenanza Regional N° 26-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 26-2012-CR/GRM: Aprueban la modificación del Cuadro para Asignación de Personal -CAP del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/904961-1",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E6ZgwQ07KbVBV2amsf4Pn6/*/904961-1.pdf",
+     "sha256": "2aaa9e97c847c608f84d82ef5f7e1737271f2c72d2cd36cb375e0f0f8965c420"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-24-2012-cr-grm",
+   "short": "Ordenanza Regional N° 24-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 24-2012-CR/GRM: Declaran de interés regional la descontaminación y conservación del Río Alto Tambo.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/904964-1",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2ImfOy1X4xn9xn-G3b0g2g/*/904964-1.pdf",
+     "sha256": "e96f6e3cfbd8b5a035f04780580206a79e28c9fcfa15697591a2ceba3558fad5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-17-2012-cr-grm",
+   "short": "Ordenanza Regional N° 17-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 17-2012-CR/GRM: Aprueban el Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional (CCR) del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/904956-1",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0H57jIR_qiZA5R7B-XHWEN/*/904956-1.pdf",
+     "sha256": "4e94985a702beff1b79f55222f01d34a0b340e864c5d29e6508afda61a13c80f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-18-2012-cr-grm",
+   "short": "Ordenanza Regional N° 18-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 18-2012-CR/GRM: Aprueban la creación de la Comisión Ambiental Regional Moquegua -CAR MOQUEGUA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/904951-1",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BODTi8ImaSiAeMtZbY5Fkm/*/904951-1.pdf",
+     "sha256": "8046417e9eb4652ba71edc3f6557b6678d614f234f961216edf16427d6723152"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-16-2012-cr-grm",
+   "short": "Ordenanza Regional N° 16-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 16-2012-CR/GRM: Modifican Ordenanza mediante la cual se creó el Consejo Regional de Fomento Artesanal de Moquegua - COREFAR MOQUEGUA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/881386-1",
+   "versions": [
+    {
+     "from": "2012-12-24",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3pGmKGlEqDLARjUBDjNozw/*/881386-1.pdf",
+     "sha256": "b877b6cad770dcb1cd97abd3dcfbe4f7ea5847379105727422ea4d98f159bf57"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-23-2012-cr-grm",
+   "short": "Ordenanza Regional N° 23-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 23-2012-CR/GRM: Aprueban modificación del Cuadro para Asignación de Personal de la Unidad de Gestión Educativa Ilo - UGEL Ilo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/878579-1",
+   "versions": [
+    {
+     "from": "2012-12-16",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D1EfcD4wKvK8oy5kNFDKdW/*/878579-1.pdf",
+     "sha256": "a8d422f52452581acd76c395485eb26c996e409a254270cb2125ba93181c6879"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-15-2012-cr-grm",
+   "short": "Ordenanza Regional N° 15-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 15-2012-CR/GRM: Aprueban el Plan de Competitividad Moquegua 2012-2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/873027-1",
+   "versions": [
+    {
+     "from": "2012-12-03",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8m2yvo6ja0a864kGC8aLcF/*/873027-1.pdf",
+     "sha256": "2f84b3424fb14339c30759b4858f3ab50c3d0f1a594df43a0c13138d034efddc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-14-2012-cr-grm",
+   "short": "Ordenanza Regional N° 14-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 14-2012-CR/GRM: Aprueban Cuadro para Asignación de Personal de la UGEL - Mariscal Nieto del Gobierno Regional de Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/851220-1",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0LgpR11dKed94ADgi-i3A1/*/851220-1.pdf",
+     "sha256": "a016474b85ada7fd038e68df300a9722d95b6ff43ee9cd50fab7de860ea3f532"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-11-2012-cr-grm",
+   "short": "Ordenanza Regional N° 11-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 11-2012-CR/GRM: Crean la Comisión Regional Contra la Trata de Personas y Tráfico Ilícito de Migrantes en la Región Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/851218-1",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6V9bMEf_Krz9MuY-AlFSPy/*/851218-1.pdf",
+     "sha256": "ae4db2701b0908d2cd5c89c9e579ad1eb5e56f2da00ed34189b76d9cfa1148e6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-10-2012-cr-grm",
+   "short": "Ordenanza Regional N° 10-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 10-2012-CR/GRM: Aprueban la creación del Consejo Regional de Juventud de la Región Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/851212-1",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2YkTPsYp4o78Lbe8GfJ3zw/*/851212-1.pdf",
+     "sha256": "40742c7a252739b2dfc8c8646d0ef6d65945a5ffd018709015fd5c543bbfaa7b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-12-2012-cr-grm",
+   "short": "Ordenanza Regional N° 12-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 12-2012-CR/GRM: Aprueban Ordenanza sobre la \"Prevención y Acciones de Sanción contra cualquier acto de discriminación o exclusión social\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/851211-1",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EJOWrZyq4zWBiVK2xO6mxM/*/851211-1.pdf",
+     "sha256": "7e97fbb810f8688c63de1192825499830ebed898b3bf176097255de583dba3b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-13-2012-cr-grm",
+   "short": "Ordenanza Regional N° 13-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 13-2012-CR/GRM: Declaran a la Región Moquegua como Plataforma Continental en la Relación de Suramérica con el Asia Pacífico",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/851209-1",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EDGun8U64kyByODAshvABf/*/851209-1.pdf",
+     "sha256": "37f6b89306d45d7062913f2b5514b183b238c6aa8aa961a64f2f3fc440ac4a7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-06-2012-cr-grm",
+   "short": "Ordenanza Regional N° 06-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 06-2012-CR/GRM: Ratifican Reglamento del Proceso del Presupuesto Participativo Regional del 2012, el mismo que regirá para el  Presupuesto Participativo Regional 2013",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/842604-1",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6dBZ5IFKK0jAnIXkiq95nm/*/842604-1.pdf",
+     "sha256": "80cefc5455d47a7fe49b7c864ef122cc308ec180ec92ef625cd4a3e086e70e22"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-05-2012-cr-grm",
+   "short": "Ordenanza Regional N° 05-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 05-2012-CR/GRM: Crean el Sistema Regional de Conservación de Moquegua - SIRECOM",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/842603-1",
+   "versions": [
+    {
+     "from": "2012-09-21",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5i2grv7LaoS9Drg6eRA2FY/*/842603-1.pdf",
+     "sha256": "41cf59a046c14229b6d2495b43e06f09984a02e3cb47f793cbbeaf4803b60f9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-04-2012-cr-grm",
+   "short": "Ordenanza Regional N° 04-2012-CR/GRM",
+   "title": "Ordenanza Regional N° 04-2012-CR/GRM: Modifican la Ordenanza N° 16-2011-CR/GRM, mediante la cual se creó el Consejo Regional de Fomento Artesanal de Moquegua-COREFAR MOQUEGUA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/796207-1",
+   "versions": [
+    {
+     "from": "2012-06-04",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4QFspKBkKXr8PjUfIpn_lJ/*/796207-1.pdf",
+     "sha256": "543fe626948676de7d9d8280e93dce911a6eb9b4f3558fc57fc22d251a75b284"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-15-2010-cr-grm",
+   "short": "Ordenanza Regional N° 15-2010-CR/GRM",
+   "title": "Ordenanza Regional N° 15-2010-CR/GRM: Aprueban Cuadro para Asignación de Personal (CAP) de la Unidad de Gestión Educativa Local General Sánchez Cerro",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/759407-1",
+   "versions": [
+    {
+     "from": "2012-03-04",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/A-eB-fBPqQi9lrmRadZagr/*/759407-1.pdf",
+     "sha256": "d9134245ce0a4b6d0f8497672938e5721c705f09d358535312d2e6fc61467dd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-020-2011-cr-grm",
+   "short": "Ordenanza Regional N° 020-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 020-2011-CR/GRM: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno Regional Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/745017-1",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BgluknypKov9hwVzSgI7AC/*/745017-1.pdf",
+     "sha256": "02f1f78774532117c84435ee8aa0a5f662c7b8889d3af3eb1fd3dc5aa5dea2e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-17-2011-cr-grm",
+   "short": "Ordenanza Regional N° 17-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 17-2011-CR/GRM: Aprueban el Proyecto Educativo Regional (PER) Moquegua 2009-2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/744432-1",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F9MgyP68qiL86KsIwDfKLb/*/744432-1.pdf",
+     "sha256": "21cc191fa600e5e7438657e3b974cdb1f1b47b69eace1bb27a582d2ee0dc3fc3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-19-2011-cr-grm",
+   "short": "Ordenanza Regional N° 19-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 19-2011-CR/GRM: Aprueban medidas de protección para reducir la elevada exposición a la Radiación Ultravioleta, en las instituciones educativas públicas y privadas del ámbito de la Región Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/735065-1",
+   "versions": [
+    {
+     "from": "2012-01-02",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4am23Gyiavy8de2hgv8Ev7/*/735065-1.pdf",
+     "sha256": "2c0c117e91915d8eb3fc57550548e88298da99fd5fb46f570ae3b664f370345a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-18-2011-cr-grm",
+   "short": "Ordenanza Regional N° 18-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 18-2011-CR/GRM: Derogan las Ordenanzas Regionales N°s. 003 y 005-2007-CR-GRM y 11-2010-CR-GRM, y establecen disposiciones aplicables a los actuados en la Comisión Especial del Consejo Regional de Moquegua para la Evaluación del Programa de Apoyo Alimentario PAAR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/725004-1",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5ksyDaS94_b8v2W7X6EBwa/*/725004-1.pdf",
+     "sha256": "a4119c9a7b17c70aa9fc2c9ba3043cfee7b3376a08912c4d3d28d5a6718558fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-16-2011-cr-grm",
+   "short": "Ordenanza Regional N° 16-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 16-2011-CR/GRM: Crean el Consejo Regional de Fomento Artesanal de Moquegua - COREFAR MOQUEGUA",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/718789-1",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2DM0cm1-aWL8yfH-M2uHx_/*/718789-1.pdf",
+     "sha256": "3da7fb443648ff52f456ae9edeb4c85cbec4902729fe39aefcee9587725c076d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2011-cr-grm",
+   "short": "Ordenanza Regional N° 011-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 011-2011-CR/GRM: Crean el Consejo Regional de Ciencia, Tecnología e Innovación - CORCYTEC Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/718786-1",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dti_vhzMKeABJE4Wd6j3n2/*/718786-1.pdf",
+     "sha256": "00e9c2ba7c6ec7c67910b254caf0a5f6d2399809a28b78a89ad169749bbdc491"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-13-2011-cr-grm",
+   "short": "Ordenanza Regional N° 13-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 13-2011-CR/GRM: Constituyen la Comisión Multisectorial Regional de Lucha contra la Violencia de Grupos Vulnerables con Equidad de Género",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/718782-1",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6cu10yh94Pj9I2vtCK6NR-/*/718782-1.pdf",
+     "sha256": "43f367371baa68a359add7d2f75d115e8dee0b479137b5446d01165c3ac2f13a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-15-2011-cr-grm",
+   "short": "Ordenanza Regional N° 15-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 15-2011-CR/GRM: Derogan la Ordenanza N° 14-2010-CR/GRM, mediante la cual se declaró feriado no laborable en toda la Región de Moquegua el día 14 de octubre de cada año",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/713181-1",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/95PUGOnlqNY9eLdgH1z2z7/*/713181-1.pdf",
+     "sha256": "8828d4ed8b70aadfe85f77fc1e78ce0477e08f739998debf8069e19c63a1a015"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-14-2011-cr-grm",
+   "short": "Ordenanza Regional N° 14-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 14-2011-CR/GRM: Autorizan a Procurador Público del Gobierno Regional de Moquegua, Dirección Regional de Educación Moquegua y Unidad de Gestión Educativa Local Mariscal Nieto, Ilo y General Sánchez Cerro a no interponer recursos impugnatorios y allanarse y transar en procesos re",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/681696-1",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5zB2qNfZKae8_wFAfe1A6l/*/681696-1.pdf",
+     "sha256": "410877f13247422344caa4ee06c47596822cb1baeb3cbbf9b226076d9e4a7eb4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2011-cr-grm",
+   "short": "Ordenanza Regional N° 010-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 010-2011-CR/GRM: Aprueban Reglamento del Proceso del Presupuesto Participativo del Gobierno Regional Moquegua para el Año Fiscal 2012",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/658178-1",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dv5lej1_aV0A-1mPdI4cDb/*/658178-1.pdf",
+     "sha256": "3219d3ebc23b587b5f8acec2a82c4200b20cb00c50bfa95677cb33679f0fde77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2011-cr-grm",
+   "short": "Ordenanza Regional N° 008-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 008-2011-CR/GRM: Aprueban modificaciones al Reglamento de Organización y Funciones y al Cuadro para Asignación de Personal del Hospital J.F. Kennedy de Ilo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/654615-2",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4HFoV4G84R596eS7pM4_mE/*/654615-2.pdf",
+     "sha256": "4d51965c8d6510f681b19007a37557125963bec0489ad4a7990d0cdcfa3913ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2011-cr-grm",
+   "short": "Ordenanza Regional N° 006-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 006-2011-CR/GRM: Aprueban modificaciones al Reglamento de Organización y Funciones y al Cuadro para Asignación de Personal del Hospital J.F. Kennedy de Ilo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/654615-1",
+   "versions": [
+    {
+     "from": "2011-06-20",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8el257c_qWzAYbfM5MG29S/*/654615-1.pdf",
+     "sha256": "1f9c634bc0bb92c91df7bf43b6a529d895810e227a48d4823e559cdf06bb5b0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2011-cr-grm",
+   "short": "Ordenanza Regional N° 007-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 007-2011-CR/GRM: Crean el Comité Directivo Regional de Prevención y Erradicación del Trabajo Infantil - CDRPETI de la Región Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/648376-1",
+   "versions": [
+    {
+     "from": "2011-06-05",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F1FEA8k6KPX9wIYZ3FI9I8/*/648376-1.pdf",
+     "sha256": "69538e71218813afbac3399ec636b3965ab18afa763caa0d8c76f989023290ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2011-cr-grm",
+   "short": "Ordenanza Regional N° 005-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 005-2011-CR/GRM: Disponen promover la utilización del Lenguaje Sensible al Género o Lenguaje Inclusivo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/648374-1",
+   "versions": [
+    {
+     "from": "2011-06-05",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5i2pn2VSadV8RjeY7AlCrf/*/648374-1.pdf",
+     "sha256": "387e57aef9fb3cf9cb966059e47ec5d17ee7971e7cf582f9026f9ffc4d5923a0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2011-cr-grm",
+   "short": "Ordenanza Regional N° 009-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 009-2011-CR/GRM: Crean el Consejo Regional del Trabajo y Promoción del Empleo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/648329-1",
+   "versions": [
+    {
+     "from": "2011-06-05",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/16QZPNMrK0HAXsjJsA7Ui4/*/648329-1.pdf",
+     "sha256": "6620d3ba162bb783dd4edfc1f88a16e09a90a286892d25da8025ff5092cdfbd9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2011-cr-grm",
+   "short": "Ordenanza Regional N° 004-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 004-2011-CR/GRM: Disponen que el Ejecutivo realice acciones tendientes a aprobar una escala única del incentivo laboral otorgado a través del CAFAE",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/638620-1",
+   "versions": [
+    {
+     "from": "2011-05-14",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FhlX1Qf64DR9BicCOPdefa/*/638620-1.pdf",
+     "sha256": "09d577a569f8617520e1e382bc1d2b9fa8825166046d6db3c2acc5b931644641"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-03-2011-cr-grm",
+   "short": "Ordenanza Regional N° 03-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 03-2011-CR/GRM: Suspenden proceso de Concurso Público para nombramiento de profesores en el I nivel de la Carrera Pública Magisterial 2011, aprobado por R.M. N° 0423-2010-ED en la Región Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/623953-1",
+   "versions": [
+    {
+     "from": "2011-04-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1VPfykiraLVADztO4fKL7k/*/623953-1.pdf",
+     "sha256": "b5f21d3a7206dd544e5a473516eec602486927317a00c8d93a6109ef9383ea4f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-02-2011-cr-grm",
+   "short": "Ordenanza Regional N° 02-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 02-2011-CR/GRM: Suspenden los efectos jurídicos de la Ordenanza Regional N° 003-2007-CR/GRM, sus modificatorias y normas complementarias",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/622662-1",
+   "versions": [
+    {
+     "from": "2011-04-04",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8lOpLgf04R9AJgrYTnkksM/*/622662-1.pdf",
+     "sha256": "cd77cef57b2007b4b98b4f17e24b58ea5f4e9fb7e5f67d08542bce7436c042e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-08-2010-cr-grm",
+   "short": "Ordenanza Regional N° 08-2010-CR/GRM",
+   "title": "Ordenanza Regional N° 08-2010-CR/GRM: Aprueban el Plan Vial Departamental Participativo 2007-2016 de Moquegua actualizado al 2010",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/615576-1",
+   "versions": [
+    {
+     "from": "2011-03-20",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5r8ZzxLnK3R99nugqG1tPA/*/615576-1.pdf",
+     "sha256": "a7ea01bcf88f432cd05bd4d879ba930db2f9b6d8b4f0042ed8fff38f6569e695"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-01-2011-cr-grm",
+   "short": "Ordenanza Regional N° 01-2011-CR/GRM",
+   "title": "Ordenanza Regional N° 01-2011-CR/GRM: Aprueban Reglamento Interno del Consejo Regional del Gobierno Regional de Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/605966-1",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/DWBStb-GK_zBhev4OgjaXX/*/605966-2.pdf",
+     "sha256": "0973a1fbaed2120eb0caf2716b4991d5162241d414b20819af1d8c954fca5a8b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-10-2010-cr-grm",
+   "short": "Ordenanza Regional N° 10-2010-CR/GRM",
+   "title": "Ordenanza Regional N° 10-2010-CR/GRM: Aprueban el Reglamento de Organización y Funciones y el Cuadro de Asignación de Personal de la Gerencia Subregional de Desarrollo de Ilo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/580631-1",
+   "versions": [
+    {
+     "from": "2010-12-23",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4TTONEoqKya8LI16z23S_C/*/580631-1.pdf",
+     "sha256": "08d706c96a011c3770b724ca4cfd78b8180b37e1911c12e66d174934055c6bae"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-13-2010-cr-grm",
+   "short": "Ordenanza Regional N° 13-2010-CR/GRM",
+   "title": "Ordenanza Regional N° 13-2010-CR/GRM: Crean la Unidad de Gestión Educativa Local \"San Ignacio de Loyola\" - Ichuña",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/569542-1",
+   "versions": [
+    {
+     "from": "2010-11-24",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8lhoVEj6K9S8fZRMUE0SZK/*/569542-1.pdf",
+     "sha256": "ad99494a30f32ff235ab1c88301f21cfb06b5b29ace1d58edad7eca6950a7eba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009-cr-grm",
+   "short": "Ordenanza Regional N° 011-2009-CR/GRM",
+   "title": "Ordenanza Regional N° 011-2009-CR/GRM: Declaran de interés regional el Proceso de Nombramiento por Incorporación del personal contratado que labora en la sede central y en diferentes sectores del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/439677-1",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CvOzjUdSaaO9lkYczAXlfo/*/439677-1.pdf",
+     "sha256": "c62c14078ef3c34a65799688c376309f8ba682d9ba9e70d14dc7388aee036911"
+    }
+   ]
   }
  ]
 }

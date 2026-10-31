@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-153 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+192 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -165,6 +165,45 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-29-2012-cr-grm/` | Ordenanza Regional N° 29-2012-CR/GRM: Declaran de interés público regional las zonas prioritarias para la conservación de la biodiversidad en la Región Moquegua | in force 28 February 2013 |
 | `ordenanza-regional-31-2012-cr-grm/` | Ordenanza Regional N° 31-2012-CR/GRM: Aprueban Cuadro para Asignación de Personal Consolidado de la Unidad Ejecutora Sede Central del Gobierno Regional Moquegua | in force 28 February 2013 |
 | `ordenanza-regional-21-2012-cr-grm/` | Ordenanza Regional N° 21-2012-CR/GRM: Aprueban el Reglamento del Registro Único Regional de Organizaciones Sociales de Base de la Región Moquegua -RUROS-RM. | in force 28 February 2013 |
+| `ordenanza-regional-26-2012-cr-grm/` | Ordenanza Regional N° 26-2012-CR/GRM: Aprueban la modificación del Cuadro para Asignación de Personal -CAP del Gobierno Regional | in force 28 February 2013 |
+| `ordenanza-regional-24-2012-cr-grm/` | Ordenanza Regional N° 24-2012-CR/GRM: Declaran de interés regional la descontaminación y conservación del Río Alto Tambo. | in force 28 February 2013 |
+| `ordenanza-regional-17-2012-cr-grm/` | Ordenanza Regional N° 17-2012-CR/GRM: Aprueban el Reglamento para el Registro, Inscripción y Elección de los Representantes de la Sociedad Civil ante el Consejo… | in force 28 February 2013 |
+| `ordenanza-regional-18-2012-cr-grm/` | Ordenanza Regional N° 18-2012-CR/GRM: Aprueban la creación de la Comisión Ambiental Regional Moquegua -CAR MOQUEGUA | in force 28 February 2013 |
+| `ordenanza-regional-16-2012-cr-grm/` | Ordenanza Regional N° 16-2012-CR/GRM: Modifican Ordenanza mediante la cual se creó el Consejo Regional de Fomento Artesanal de Moquegua - COREFAR MOQUEGUA | in force 24 December 2012 |
+| `ordenanza-regional-23-2012-cr-grm/` | Ordenanza Regional N° 23-2012-CR/GRM: Aprueban modificación del Cuadro para Asignación de Personal de la Unidad de Gestión Educativa Ilo - UGEL Ilo | in force 16 December 2012 |
+| `ordenanza-regional-15-2012-cr-grm/` | Ordenanza Regional N° 15-2012-CR/GRM: Aprueban el Plan de Competitividad Moquegua 2012-2021 | in force 3 December 2012 |
+| `ordenanza-regional-14-2012-cr-grm/` | Ordenanza Regional N° 14-2012-CR/GRM: Aprueban Cuadro para Asignación de Personal de la UGEL - Mariscal Nieto del Gobierno Regional de Moquegua | in force 12 October 2012 |
+| `ordenanza-regional-11-2012-cr-grm/` | Ordenanza Regional N° 11-2012-CR/GRM: Crean la Comisión Regional Contra la Trata de Personas y Tráfico Ilícito de Migrantes en la Región Moquegua | in force 12 October 2012 |
+| `ordenanza-regional-10-2012-cr-grm/` | Ordenanza Regional N° 10-2012-CR/GRM: Aprueban la creación del Consejo Regional de Juventud de la Región Moquegua | in force 12 October 2012 |
+| `ordenanza-regional-12-2012-cr-grm/` | Ordenanza Regional N° 12-2012-CR/GRM: Aprueban Ordenanza sobre la "Prevención y Acciones de Sanción contra cualquier acto de discriminación o exclusión social" | in force 12 October 2012 |
+| `ordenanza-regional-13-2012-cr-grm/` | Ordenanza Regional N° 13-2012-CR/GRM: Declaran a la Región Moquegua como Plataforma Continental en la Relación de Suramérica con el Asia Pacífico | in force 12 October 2012 |
+| `ordenanza-regional-06-2012-cr-grm/` | Ordenanza Regional N° 06-2012-CR/GRM: Ratifican Reglamento del Proceso del Presupuesto Participativo Regional del 2012, el mismo que regirá para el  Presupuesto… | in force 21 September 2012 |
+| `ordenanza-regional-05-2012-cr-grm/` | Ordenanza Regional N° 05-2012-CR/GRM: Crean el Sistema Regional de Conservación de Moquegua - SIRECOM | in force 21 September 2012 |
+| `ordenanza-regional-04-2012-cr-grm/` | Ordenanza Regional N° 04-2012-CR/GRM: Modifican la Ordenanza N° 16-2011-CR/GRM, mediante la cual se creó el Consejo Regional de Fomento Artesanal de Moquegua-CO… | in force 4 June 2012 |
+| `ordenanza-regional-15-2010-cr-grm/` | Ordenanza Regional N° 15-2010-CR/GRM: Aprueban Cuadro para Asignación de Personal (CAP) de la Unidad de Gestión Educativa Local General Sánchez Cerro | in force 4 March 2012 |
+| `ordenanza-regional-020-2011-cr-grm/` | Ordenanza Regional N° 020-2011-CR/GRM: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno R… | in force 26 January 2012 |
+| `ordenanza-regional-17-2011-cr-grm/` | Ordenanza Regional N° 17-2011-CR/GRM: Aprueban el Proyecto Educativo Regional (PER) Moquegua 2009-2021 | in force 26 January 2012 |
+| `ordenanza-regional-19-2011-cr-grm/` | Ordenanza Regional N° 19-2011-CR/GRM: Aprueban medidas de protección para reducir la elevada exposición a la Radiación Ultravioleta, en las instituciones educat… | in force 2 January 2012 |
+| `ordenanza-regional-18-2011-cr-grm/` | Ordenanza Regional N° 18-2011-CR/GRM: Derogan las Ordenanzas Regionales N°s. 003 y 005-2007-CR-GRM y 11-2010-CR-GRM, y establecen disposiciones aplicables a los… | in force 8 December 2011 |
+| `ordenanza-regional-16-2011-cr-grm/` | Ordenanza Regional N° 16-2011-CR/GRM: Crean el Consejo Regional de Fomento Artesanal de Moquegua - COREFAR MOQUEGUA | in force 21 November 2011 |
+| `ordenanza-regional-011-2011-cr-grm/` | Ordenanza Regional N° 011-2011-CR/GRM: Crean el Consejo Regional de Ciencia, Tecnología e Innovación - CORCYTEC Moquegua | in force 21 November 2011 |
+| `ordenanza-regional-13-2011-cr-grm/` | Ordenanza Regional N° 13-2011-CR/GRM: Constituyen la Comisión Multisectorial Regional de Lucha contra la Violencia de Grupos Vulnerables con Equidad de Género | in force 21 November 2011 |
+| `ordenanza-regional-15-2011-cr-grm/` | Ordenanza Regional N° 15-2011-CR/GRM: Derogan la Ordenanza N° 14-2010-CR/GRM, mediante la cual se declaró feriado no laborable en toda la Región de Moquegua el … | in force 10 November 2011 |
+| `ordenanza-regional-14-2011-cr-grm/` | Ordenanza Regional N° 14-2011-CR/GRM: Autorizan a Procurador Público del Gobierno Regional de Moquegua, Dirección Regional de Educación Moquegua y Unidad de Ges… | in force 26 August 2011 |
+| `ordenanza-regional-010-2011-cr-grm/` | Ordenanza Regional N° 010-2011-CR/GRM: Aprueban Reglamento del Proceso del Presupuesto Participativo del Gobierno Regional Moquegua para el Año Fiscal 2012 | in force 30 June 2011 |
+| `ordenanza-regional-008-2011-cr-grm/` | Ordenanza Regional N° 008-2011-CR/GRM: Aprueban modificaciones al Reglamento de Organización y Funciones y al Cuadro para Asignación de Personal del Hospital J.… | in force 20 June 2011 |
+| `ordenanza-regional-006-2011-cr-grm/` | Ordenanza Regional N° 006-2011-CR/GRM: Aprueban modificaciones al Reglamento de Organización y Funciones y al Cuadro para Asignación de Personal del Hospital J.… | in force 20 June 2011 |
+| `ordenanza-regional-007-2011-cr-grm/` | Ordenanza Regional N° 007-2011-CR/GRM: Crean el Comité Directivo Regional de Prevención y Erradicación del Trabajo Infantil - CDRPETI de la Región Moquegua | in force 5 June 2011 |
+| `ordenanza-regional-005-2011-cr-grm/` | Ordenanza Regional N° 005-2011-CR/GRM: Disponen promover la utilización del Lenguaje Sensible al Género o Lenguaje Inclusivo | in force 5 June 2011 |
+| `ordenanza-regional-009-2011-cr-grm/` | Ordenanza Regional N° 009-2011-CR/GRM: Crean el Consejo Regional del Trabajo y Promoción del Empleo | in force 5 June 2011 |
+| `ordenanza-regional-004-2011-cr-grm/` | Ordenanza Regional N° 004-2011-CR/GRM: Disponen que el Ejecutivo realice acciones tendientes a aprobar una escala única del incentivo laboral otorgado a través … | in force 14 May 2011 |
+| `ordenanza-regional-03-2011-cr-grm/` | Ordenanza Regional N° 03-2011-CR/GRM: Suspenden proceso de Concurso Público para nombramiento de profesores en el I nivel de la Carrera Pública Magisterial 2011… | in force 7 April 2011 |
+| `ordenanza-regional-02-2011-cr-grm/` | Ordenanza Regional N° 02-2011-CR/GRM: Suspenden los efectos jurídicos de la Ordenanza Regional N° 003-2007-CR/GRM, sus modificatorias y normas complementarias | in force 4 April 2011 |
+| `ordenanza-regional-08-2010-cr-grm/` | Ordenanza Regional N° 08-2010-CR/GRM: Aprueban el Plan Vial Departamental Participativo 2007-2016 de Moquegua actualizado al 2010 | in force 20 March 2011 |
+| `ordenanza-regional-01-2011-cr-grm/` | Ordenanza Regional N° 01-2011-CR/GRM: Aprueban Reglamento Interno del Consejo Regional del Gobierno Regional de Moquegua | in force 24 February 2011 |
+| `ordenanza-regional-10-2010-cr-grm/` | Ordenanza Regional N° 10-2010-CR/GRM: Aprueban el Reglamento de Organización y Funciones y el Cuadro de Asignación de Personal de la Gerencia Subregional de Des… | in force 23 December 2010 |
+| `ordenanza-regional-13-2010-cr-grm/` | Ordenanza Regional N° 13-2010-CR/GRM: Crean la Unidad de Gestión Educativa Local "San Ignacio de Loyola" - Ichuña | in force 24 November 2010 |
+| `ordenanza-regional-011-2009-cr-grm/` | Ordenanza Regional N° 011-2009-CR/GRM: Declaran de interés regional el Proceso de Nombramiento por Incorporación del personal contratado que labora en la sede c… | in force 30 December 2009 |
 
 ## Source
 
