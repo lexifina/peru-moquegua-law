@@ -155,6 +155,38 @@
     "ordenanza-regional-08-2012-cr-grm"
    ],
    "sha256": "93ec82a3c86f6ebb29dbe8d9c81fca8ac703ffca0021cbdc6cd7fa2c2c2650e0"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-005-2015-cr-grm",
+    "ordenanza-regional-006-2015-cr-grm",
+    "ordenanza-regional-008-2020-cr-grm",
+    "ordenanza-regional-01-2013-cr-grm",
+    "ordenanza-regional-01-2019-cr-grm",
+    "ordenanza-regional-010-2013-cr-grm",
+    "ordenanza-regional-011-2013-cr-grm",
+    "ordenanza-regional-012-2017-cr-grm",
+    "ordenanza-regional-013-2020-cr-grm",
+    "ordenanza-regional-02-2021-cr-grm",
+    "ordenanza-regional-04-2021-cr-grm",
+    "ordenanza-regional-05-2013-cr-grm",
+    "ordenanza-regional-06-2013-cr-grm",
+    "ordenanza-regional-06-2018-cr-grm",
+    "ordenanza-regional-06-2021-cr-grm",
+    "ordenanza-regional-07-2021-cr-grm",
+    "ordenanza-regional-08-2013-cr-grm",
+    "ordenanza-regional-09-2013-cr-grm",
+    "ordenanza-regional-09-2018-cr-grm",
+    "ordenanza-regional-11-2018-cr-grm",
+    "ordenanza-regional-12-2018-cr-grm",
+    "ordenanza-regional-21-2012-cr-grm",
+    "ordenanza-regional-22-2012-cr-grm",
+    "ordenanza-regional-28-2012-cr-grm",
+    "ordenanza-regional-29-2012-cr-grm",
+    "ordenanza-regional-31-2012-cr-grm",
+    "ordenanza-regional-32-2012-cr-grm"
+   ],
+   "sha256": "18bacf278e0b82284313e9b36195aefa33cc03abcaa8f51dffa5c2ea1e4dc7c8"
   }
  },
  "schema": 1

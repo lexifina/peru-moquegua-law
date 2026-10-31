@@ -140,20 +140,47 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-01-2010-cr-grm` | Ordenanza Regional N° 01-2010-CR/GRM: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Moquegua | 1 | 2010-12-12 to 2010-12-12 |
 | `ordenanza-regional-010-2009-cr-grm` | Ordenanza Regional N° 010-2009-CR/GRM: Aprueban Reglamento Interno del Consejo Regional de Moquegua | 1 | 2010-01-25 to 2010-01-25 |
 | `ordenanza-regional-08-2012-cr-grm` | Ordenanza Regional N° 08-2012-CR/GRM: Aprueban Texto Único de Procedimientos Administrativos del Centro de Exportación, Transformación, Industria, Comercialización y Servicios de Ilo - CETICOS ILO | 1 | 2012-07-26 to 2012-07-26 |
+| `ordenanza-regional-008-2020-cr-grm` | Ordenanza Regional N° 008-2020-CR/GRM: Ordenanza Regional que declara de interés regional y necesidad pública la creación e implementación de un Sistema Regional de Prevención y Gestión de Conflictos Sociales | 1 | 2021-07-24 to 2021-07-24 |
+| `ordenanza-regional-06-2021-cr-grm` | Ordenanza Regional N° 06-2021-CR/GRM: Ordenanza Regional que crea el Nuevo Consejo Regional de la Juventud de la Región Moquegua y deroga la Ordenanza Regional Nº 010-2012-CR/GRM | 1 | 2021-07-01 to 2021-07-01 |
+| `ordenanza-regional-07-2021-cr-grm` | Ordenanza Regional N° 07-2021-CR/GRM: Ordenanza Regional que declara de necesidad pública e interés regional el reconocimiento de los Árboles Patrimoniales de la Región Moquegua | 1 | 2021-07-01 to 2021-07-01 |
+| `ordenanza-regional-04-2021-cr-grm` | Ordenanza Regional N° 04-2021-CR/GRM: Ordenanza Regional que aprueba el Estudio Especializado de Normativa y Políticas con Incidencia Territorial del departamento de Moquegua | 1 | 2021-07-01 to 2021-07-01 |
+| `ordenanza-regional-02-2021-cr-grm` | Ordenanza Regional N° 02-2021-CR/GRM: Ordenanza Regional que aprueba el Estudio Especializado de Análisis de Capacidad Institucional del departamento de Moquegua | 1 | 2021-06-18 to 2021-06-18 |
+| `ordenanza-regional-013-2020-cr-grm` | Ordenanza Regional N° 013-2020-CR/GRM: Aprueban el Cuadro para Asignación de Personal (CAP) Provisional de la Gerencia Regional de Salud Moquegua y sus Unidades Ejecutoras | 1 | 2020-12-04 to 2020-12-04 |
+| `ordenanza-regional-01-2019-cr-grm` | Ordenanza Regional N° 01-2019-CR/GRM: Aprueban Cuadro de Asignación de Personal Provisional de la Unidad de Gestión Educativa Local de San Ignacio de Loyola - Ichuña | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-regional-12-2018-cr-grm` | Ordenanza Regional N° 12-2018-CR/GRM: Conforman el Consejo Regional de Salud de la Región Moquegua | 1 | 2018-12-13 to 2018-12-13 |
+| `ordenanza-regional-06-2018-cr-grm` | Ordenanza Regional N° 06-2018-CR/GRM: Ordenanza que modifica los artículos 1° y 2°, de la Ordenanza Regional Nº 002-2005-CR/GRM (creación del Consejo Regional de la Micro y Pequeña Empresa) | 1 | 2018-09-19 to 2018-09-19 |
+| `ordenanza-regional-09-2018-cr-grm` | Ordenanza Regional N° 09-2018-CR/GRM: Ordenanza Regional que aprueba el Reglamento para el Registro, Inscripción y Elecciones de los Delegados de las Organizaciones de la Sociedad Civil ante el Consejo de Coordinación Regional - CCR del Gobierno Regional Moquegua | 1 | 2018-09-12 to 2018-09-12 |
+| `ordenanza-regional-11-2018-cr-grm` | Ordenanza Regional N° 11-2018-CR/GRM: Ordenanza Regional que crea el Primer Programa Regional de Vivienda - PROREVI en la provincia de Ilo, Región Moquegua | 1 | 2018-08-19 to 2018-08-19 |
+| `ordenanza-regional-012-2017-cr-grm` | Ordenanza Regional N° 012-2017-CR/GRM: Modifican la Ordenanza Regional Nº 011-2012-CR/GRM, que crea la Comisión Regional Contra la Trata de Personas y Tráfico Ilícito de Migrantes en la Región Moquegua | 1 | 2018-01-24 to 2018-01-24 |
+| `ordenanza-regional-005-2015-cr-grm` | Ordenanza Regional N° 005-2015-CR/GRM: Aprueban el Plan Anual del Presupuesto Participativo Regional 2016 y el Reglamento Marco del Proceso del Presupuesto Participativo Regional, basado en resultados | 1 | 2015-06-28 to 2015-06-28 |
+| `ordenanza-regional-006-2015-cr-grm` | Ordenanza Regional N° 006-2015-CR/GRM: Aprueban el Cuadro para Asignación de Personal Provisional de la Dirección Regional de Salud Moquegua y sus Órganos Desconcentrados | 1 | 2015-06-13 to 2015-06-13 |
+| `ordenanza-regional-011-2013-cr-grm` | Ordenanza Regional N° 011-2013-CR/GRM: Aprueban el Reglamento de Organización y Funciones del Gobierno Regional Moquegua | 1 | 2013-12-18 to 2013-12-18 |
+| `ordenanza-regional-010-2013-cr-grm` | Ordenanza Regional N° 010-2013-CR/GRM: Crean el Sistema de Información Ambiental Regional Moquegua y aprueban su reglamento | 1 | 2013-12-02 to 2013-12-02 |
+| `ordenanza-regional-09-2013-cr-grm` | Ordenanza Regional N° 09-2013-CR/GRM: Reconocen a la Comisión Ambiental Regional de Moquegua como instancia de gestión ambiental regional de Moquegua | 1 | 2013-10-27 to 2013-10-27 |
+| `ordenanza-regional-08-2013-cr-grm` | Ordenanza Regional N° 08-2013-CR/GRM: Declaran de Necesidad y Prioridad Regional la Prevención y Tratamiento de Drogodependencias, así como el Control de la oferta de Drogas en la Región Moquegua | 1 | 2013-10-27 to 2013-10-27 |
+| `ordenanza-regional-06-2013-cr-grm` | Ordenanza Regional N° 06-2013-CR/GRM: Crean el Programa Moquegua Accesible en el ámbito de la Región Moquegua | 1 | 2013-08-18 to 2013-08-18 |
+| `ordenanza-regional-05-2013-cr-grm` | Ordenanza Regional N° 05-2013-CR/GRM: Aprueban Políticas Regionales de formación profesional en la Región Moquegua | 1 | 2013-08-18 to 2013-08-18 |
+| `ordenanza-regional-28-2012-cr-grm` | Ordenanza Regional N° 28-2012-CR/GRM: Aprueban la modificación del Cuadro para Asignación de Personal - CAP de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno Regional  Moquegua | 1 | 2013-08-16 to 2013-08-16 |
+| `ordenanza-regional-01-2013-cr-grm` | Ordenanza Regional N° 01-2013-CR/GRM: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Energía y Minas | 1 | 2013-04-28 to 2013-04-28 |
+| `ordenanza-regional-22-2012-cr-grm` | Ordenanza Regional N° 22-2012-CR/GRM: Aprueban modificación del Cuadro para Asignación de Personal de la Dirección Regional de Transportes y Comunicaciones | 1 | 2013-04-14 to 2013-04-14 |
+| `ordenanza-regional-32-2012-cr-grm` | Ordenanza Regional N° 32-2012-CR/GRM: Aprueban Plan Estratégico Regional de Turismo Moquegua 2012 - 2021 | 1 | 2013-02-28 to 2013-02-28 |
+| `ordenanza-regional-29-2012-cr-grm` | Ordenanza Regional N° 29-2012-CR/GRM: Declaran de interés público regional las zonas prioritarias para la conservación de la biodiversidad en la Región Moquegua | 1 | 2013-02-28 to 2013-02-28 |
+| `ordenanza-regional-31-2012-cr-grm` | Ordenanza Regional N° 31-2012-CR/GRM: Aprueban Cuadro para Asignación de Personal Consolidado de la Unidad Ejecutora Sede Central del Gobierno Regional Moquegua | 1 | 2013-02-28 to 2013-02-28 |
+| `ordenanza-regional-21-2012-cr-grm` | Ordenanza Regional N° 21-2012-CR/GRM: Aprueban el Reglamento del Registro Único Regional de Organizaciones Sociales de Base de la Región Moquegua -RUROS-RM. | 1 | 2013-02-28 to 2013-02-28 |
 
-The build made 126 commits:
+The build made 153 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 126 | first version of an act |
+| 153 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 126 laws in the record.
-- 253 tags.
+- 153 laws in the record.
+- 307 tags.
 
 ## Dates
 
@@ -165,13 +192,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ed9fc94d1b5c99152f1e4bf06360ab2d88adeabfb2d67a5839b517199dd5686e` (1755099 bytes).
+- Corpus: sha256 `09786605bdec5883f91c942c212e9a1098e8469a2ed96e15a6dc6bb307006ac0` (2069524 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-126 versions of 126 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
