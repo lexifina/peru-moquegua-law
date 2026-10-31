@@ -231,6 +231,12 @@
     "ordenanza-regional-26-2012-cr-grm"
    ],
    "sha256": "26c2e2c891fc89b36bee64eab918f136adaea8cdf60bbf3df846109db421d32b"
+  },
+  "33-runner-04.json": {
+   "acts": [
+    "ordenanza-regional-002-2026-cr-grm"
+   ],
+   "sha256": "35fb13c10d0a82b1ff36565c3e7f0c457d3efeb93c68ac1327ac27511c83a7a9"
   }
  },
  "schema": 1

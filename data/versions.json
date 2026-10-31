@@ -2688,6 +2688,20 @@
      "sha256": "c62c14078ef3c34a65799688c376309f8ba682d9ba9e70d14dc7388aee036911"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2026-cr-grm",
+   "short": "Ordenanza Regional N° 002-2026-CR/GRM",
+   "title": "Ordenanza Regional N° 002-2026-CR/GRM: Ordenanza Regional que aprueba la declaratoria de interés y necesidad pública regional de la promoción del fortalecimiento de las familias y la conciliación de la vida familiar y el trabajo en el departamento de Moquegua",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/2533258-1",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2hqHViofabJ8SsTbXeGAuh/*/2533258-1.PDF",
+     "sha256": "b1f2137e8c6825249a92e08b2ca6b9e1e59c47f52b1b7aa29b3f1c4a1b4a7f3f"
+    }
+   ]
   }
  ]
 }

@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-192 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+193 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -204,6 +204,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-10-2010-cr-grm/` | Ordenanza Regional N° 10-2010-CR/GRM: Aprueban el Reglamento de Organización y Funciones y el Cuadro de Asignación de Personal de la Gerencia Subregional de Des… | in force 23 December 2010 |
 | `ordenanza-regional-13-2010-cr-grm/` | Ordenanza Regional N° 13-2010-CR/GRM: Crean la Unidad de Gestión Educativa Local "San Ignacio de Loyola" - Ichuña | in force 24 November 2010 |
 | `ordenanza-regional-011-2009-cr-grm/` | Ordenanza Regional N° 011-2009-CR/GRM: Declaran de interés regional el Proceso de Nombramiento por Incorporación del personal contratado que labora en la sede c… | in force 30 December 2009 |
+| `ordenanza-regional-002-2026-cr-grm/` | Ordenanza Regional N° 002-2026-CR/GRM: Ordenanza Regional que aprueba la declaratoria de interés y necesidad pública regional de la promoción del fortalecimient… | in force 5 November 2026 |
 
 ## Source
 
