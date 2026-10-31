@@ -1,0 +1,195 @@
+# How this repository was made (Moquegua)
+
+This file is written by the build on 2026-10-31, the day the source data was retrieved.
+
+## Sources
+
+| Source | Address | Retrieved | Licence |
+| --- | --- | --- | --- |
+| Diario Oficial El Peruano, Normas Legales (Empresa Peruana de Servicios Editoriales S.A. - Editora Perú) | <https://busquedas.elperuano.pe> | 2026-10-31 | Official texts of a legislative nature: not protected by copyright in Peru (Decreto Legislativo 822, Ley sobre el Derecho de Autor, art. 9 b: "Artículo 9.- No son objeto de protección por el derecho de autor: [...] b. Los textos oficiales de carácter legislativo, administrativo o judicial, ni las traducciones oficiales de los mismos, sin perjuicio de la obligación de respetar los textos y citar la fuente."). The source states no restriction on reuse. Reproduced with attribution, respecting the text. |
+
+Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
+
+## What is in it
+
+| Act | Title | Versions | Span |
+| --- | --- | ---: | --- |
+| `ordenanza-regional-003-2026-cr-grm` | Ordenanza Regional N° 003-2026-CR/GRM: Ordenanza Regional que aprueba la actualización del Plan de Acción Regional de Seguridad Ciudadana (PARSC) 2024-2027 | 1 | 2026-11-01 to 2026-11-01 |
+| `ordenanza-regional-009-2025-cr-grm` | Ordenanza Regional N° 009-2025-CR/GRM: Ordenanza que aprueba el Cuadro para Asignación de Personal (CAP) Provisional de la U.E. 401 Dirección de Red de Salud Ilo y la U.E. 402 Hospital Regional Moquegua de la Dirección Regional de Salud Moquegua | 1 | 2026-07-09 to 2026-07-09 |
+| `ordenanza-regional-001-2026-cr-grm` | Ordenanza Regional N° 001- 2026-CR/GRM: Aprueban el Plan de Ordenamiento Territorial – POT del departamento de Moquegua | 1 | 2026-04-25 to 2026-04-25 |
+| `ordenanza-regional-007-2025-cr-grm` | Ordenanza Regional N° 007- 2025-CR/GRM: Aprueban la creación del Consejo Consultivo y Participativo de Niñas, Niños y Adolescentes (CCONNA) de la Región de Moquegua | 1 | 2026-02-07 to 2026-02-07 |
+| `ordenanza-regional-010-2025-cr-grm` | Ordenanza Regional N° 010-2025-CR/GRM: Ordenanza Regional que aprueba la adecuación de la Comisión Ambiental Regional (CAR) de Moquegua | 1 | 2026-01-29 to 2026-01-29 |
+| `ordenanza-regional-007-2024-cr-grm` | Ordenanza Regional N° 007-2024-CR/GRM: Ordenanza regional que promueve la alimentación saludable y actividad física en el ámbito de los sectores públicos y privados de la región Moquegua | 1 | 2025-10-26 to 2025-10-26 |
+| `ordenanza-regional-006-2025-cr-grm` | Ordenanza Regional N° 006-2025-CR/GRM: Ordenanza regional que modifica los artículos 74 y 76 del Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Moquegua | 1 | 2025-09-06 to 2025-09-06 |
+| `ordenanza-regional-001-2025-cr-grm` | Ordenanza Regional N° 001- 2025-CR/GRM: Ordenanza Regional que modifica el Texto Único de Procedimientos Administrativos (TUPA) del Gobierno Regional de Moquegua | 1 | 2025-09-03 to 2025-09-03 |
+| `ordenanza-regional-004-2025-cr-grm` | Ordenanza Regional N° 004- 2025-CR/GRM: Ordenanza Regional que aprueba el proceso de implementación del Sistema Regional de Gestión Ambiental Moquegua y su Hoja de Ruta | 1 | 2025-08-28 to 2025-08-28 |
+| `ordenanza-regional-005-2024-cr-grm` | Ordenanza Regional N° 005-2024-CR/GRM: Ordenanza Regional que aprueba la Política Ambiental y Climática Regional del Departamento de Moquegua | 1 | 2025-06-08 to 2025-06-08 |
+| `ordenanza-regional-008-2024-cr-grm` | Ordenanza Regional N° 008-2024-CR/GRM: Ordenanza Regional que institucionaliza el Día de las Brigadas de Educación Ambiental y Gestión de Riesgo de Desastre a partir de las Instituciones Educativas de Educación Básica Regular (EBR), en el ámbito del Departamento de Moquegua | 1 | 2025-03-24 to 2025-03-24 |
+| `ordenanza-regional-12-2024-cr-grm` | Ordenanza Regional N° 12-2024-CR/GRM: Ordenanza que aprueba la Política Regional de la Juventud de la Región Moquegua para el periodo 2024 - 2030 | 1 | 2025-03-07 to 2025-03-07 |
+| `ordenanza-regional-009-2024-cr-grm` | Ordenanza Regional N° 009-2024-CR/GRM: Ordenanza Regional que aprueba el Sello Regional de Moquegua en el marco de la Política Nacional de Desarrollo e Inclusión Social | 1 | 2025-01-03 to 2025-01-03 |
+| `ordenanza-regional-003-2024-cr-grm` | Ordenanza Regional N° 003-2024-CR/GRM: Ordenanza Regional que aprueba la conformación del Consejo Regional de Cultura de Moquegua | 1 | 2024-08-02 to 2024-08-02 |
+| `ordenanza-regional-002-2023-cr-grm` | Ordenanza Regional N° 002-2023-CR/GRM: Conforman el Comité Consultivo Regional de Turismo de Moquegua | 1 | 2024-06-09 to 2024-06-09 |
+| `ordenanza-regional-013-2022-cr-grm` | Ordenanza Regional N° 013-2022-CR/GRM: Ordenanza Regional que aprueba el Estudio Especializado de Evaluación de Riesgos de Desastres y Vulnerabilidad al Cambio Climático del departamento de Moquegua | 1 | 2024-04-28 to 2024-04-28 |
+| `ordenanza-regional-19-2023-cr-grm` | Ordenanza Regional N° 19-2023-CR/GRM: Ordenanza que aprueba el Plan de Acción Regional de Seguridad Ciudadana Moquegua 2024-2027 | 1 | 2024-04-07 to 2024-04-07 |
+| `ordenanza-regional-018-2022-cr-grm` | Ordenanza Regional N° 018-2022-CR/GRM: Ordenanza Regional que aprueba el Mapa Regional de Ecosistemas y Áreas Degradadas del departamento de Moquegua | 1 | 2024-03-01 to 2024-03-01 |
+| `ordenanza-regional-04-2018-cr-grm` | Ordenanza Regional N° 04-2018-CR/GRM: Ordenanza Regional que aprueba el Reglamento de Organización y Funciones (ROF) de la Gerencia Sub Regional Sánchez Cerro | 1 | 2024-02-24 to 2024-02-24 |
+| `ordenanza-regional-16-2023-cr-grm` | Ordenanza Regional N° 16-2023-CR/GRM: Modifican el Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Moquegua | 1 | 2023-12-15 to 2023-12-15 |
+| `ordenanza-regional-14-2023-cr-grm` | Ordenanza Regional N° 14-2023-CR/GRM: Modifican el Reglamento de Audiencias Públicas del Gobierno Regional Moquegua | 1 | 2023-12-15 to 2023-12-15 |
+| `ordenanza-regional-11-2023-cr-grm` | Ordenanza Regional N° 11-2023-CR/GRM: Aprueban el Plan de Acción Regional de Seguridad Ciudadana Moquegua 2023 | 1 | 2023-12-04 to 2023-12-04 |
+| `ordenanza-regional-009-2023-cr-grm` | Ordenanza Regional N° 009-2023-CR/GRM: Ordenanza Regional que aprueba la modificación del Artículo Segundo de la Ordenanza Regional N° 08-2021-CR/GRM, que crea el Observatorio Regional de Violencia Contra las Mujeres e Integrantes del grupo familiar de la Región Moquegua | 1 | 2023-11-25 to 2023-11-25 |
+| `ordenanza-regional-17-2023-cr-grm` | Ordenanza Regional N° 17-2023-CR/GRM: Aprueban el Cuadro para Asignación de Personal (CAP) Provisional de la Dirección Regional de Salud Moquegua y sus Unidades Ejecutoras | 1 | 2023-11-24 to 2023-11-24 |
+| `ordenanza-regional-001-2023-cr-grm` | Ordenanza Regional N° 001-2023-CR/GRM: Ordenanza Regional que aprueba el “Diagnostico Integrado del Territorio del Departamento de Moquegua” como Instrumento Técnico para el Ordenamiento Territorial del departamento de Moquegua | 1 | 2023-11-12 to 2023-11-12 |
+| `ordenanza-regional-13-2023-cr-grm` | Ordenanza Regional N° 13-2023-CR/GRM: Crean y conforman la Comisión Regional Anticorrupción de Moquegua | 1 | 2023-10-27 to 2023-10-27 |
+| `ordenanza-regional-15-2023-cr-grm` | Ordenanza Regional N° 15-2023-CR/GRM: Derogan la Ordenanza Regional N° 007-2017-CR/GRM y disponen que el Manual de Operaciones de la Dirección Regional de Salud Moquegua – DIRESA Moquegua, aprobado por Decreto Regional N° 002-2023-GR/MOQ entre en vigencia a partir del día siguiente de la publicación | 1 | 2023-10-23 to 2023-10-23 |
+| `ordenanza-regional-005-2023-cr-grm` | Ordenanza Regional N° 005-2023-CR/GRM: Ordenanza Regional que conforma el Consejo Regional de Salud de Moquegua | 1 | 2023-10-19 to 2023-10-19 |
+| `ordenanza-regional-006-2023-cr-grm` | Ordenanza Regional N° 006-2023-CR/GRM: Ordenanza Regional que aprueba la conformación del Nuevo Consejo Regional de Comunidades Campesinas de Moquegua CORECCAMO | 1 | 2023-09-22 to 2023-09-22 |
+| `ordenanza-regional-004-2023-cr-grm` | Ordenanza Regional N° 004-2023-CR/GRM: Ordenanza Regional que modifica el artículo segundo de la Ordenanza Regional N° 010-2020-CR-GRM, de fecha 3 de setiembre del 2020, que conforma y reconoce a la Instancia de Articulación Regional, responsable de la articulación y seguimiento, de acciones para el | 1 | 2023-09-22 to 2023-09-22 |
+| `ordenanza-regional-015-2022-cr-grm` | Ordenanza Regional N° 015-2022-CR/GRM: Modifican la Ordenanza Regional N° 09-2021-CR/GRM, que crea la Red de Mujeres Emprendedoras y Empresarias de la Región Moquegua | 1 | 2023-06-11 to 2023-06-11 |
+| `ordenanza-regional-017-2022-cr-grm` | Ordenanza Regional N° 017-2022-CR/GRM: Aprueban el Cuadro para Asignación de Personal (CAP) Provisional  (CAP-P) de la Entidad Tipo A del Gobierno Regional de Moquegua | 1 | 2023-06-01 to 2023-06-01 |
+| `ordenanza-regional-003-2023-cr-grm` | Ordenanza Regional N° 003-2023-CR/GRM: Derogan la Ordenanza Regional N° 17-2022-CR/GRM y recobran la vigencia de la Ordenanza Regional N° 31-2012-CR/GRM, que aprueba el Cuadro de Asignación de Personal del Gobierno Regional de Moquegua | 1 | 2023-06-01 to 2023-06-01 |
+| `ordenanza-regional-011-2022-cr-grm` | Ordenanza Regional N° 011-2022-CR/GRM: Crean el Consejo Regional Multisectorial de Acción por la Infancia y Adolescencia de la Región Moquegua - CREMAIA Moquegua | 1 | 2023-02-19 to 2023-02-19 |
+| `ordenanza-regional-009-2022-cr-grm` | Ordenanza Regional N° 009-2022-CR/GRM: Ordenanza Regional que declara de necesidad pública la ejecución de obras que corresponden al Proyecto denominado "Ampliación de la Frontera Agrícola Lomas de Ilo - Moquegua" que corresponde a la II Etapa I Fase y II Fase del Proyecto Especial Regional Pasto Gr | 1 | 2022-12-31 to 2022-12-31 |
+| `ordenanza-regional-014-2022-cr-grm` | Ordenanza Regional N° 014-2022-CR/GRM: Aprueban el Plan de Desarrollo Regional Concertado Moquegua al 2032 | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-regional-010-2022-cr-grm` | Ordenanza Regional N° 010-2022-CR/GRM: Dan por inicio al proceso de actualización de la Estrategia Regional de Cambio Climático de la Región Moquegua con Proyección al 2050 | 1 | 2022-12-25 to 2022-12-25 |
+| `ordenanza-regional-012-2022-cr-grm` | Ordenanza Regional N° 012-2022-CR/GRM: Declaran de necesidad pública e interés regional la ampliación de la frontera agrícola de los valles antiguos de Ilo, Moquegua y Torata | 1 | 2022-12-09 to 2022-12-09 |
+| `ordenanza-regional-006-2026-cr-grm` | Ordenanza Regional N° 006-2026-CR/GRM: Ordenanza Regional que modifica el Reglamento de Organización y Funciones del Gobierno Regional de Moquegua para incorporar a la Oficina Regional de Atención a la Persona con Discapacidad - OREDIS | 1 | 2026-10-18 to 2026-10-18 |
+| `ordenanza-regional-011-2024-cr-grm` | Ordenanza Regional N° 011- 2024-CR/GRM: Ordenanza Regional que aprueba la creación de la Gerencia Regional de Gestión del Riesgo de Desastres y modifica el ROF del Gobierno Regional de Moquegua | 1 | 2025-01-01 to 2025-01-01 |
+| `ordenanza-regional-001-2024-cr-grm` | Ordenanza Regional N° 001-2024-CR/GRM: Ordenanza Regional que aprueba el Reglamento Interno del Consejo de Coordinación Regional | 1 | 2024-08-24 to 2024-08-24 |
+| `ordenanza-regional-12-2023-cr-grm` | Ordenanza Regional N° 12-2023-CR/GRM: Ordenanza Regional que declara de interés regional la implementación de los Mecanismos de Retribución por Servicios Ecosistémicos - MERESE, y reconoce la conformación de la Plataforma de Buena Gobernanza de los MERESE de Moquegua | 1 | 2023-12-10 to 2023-12-10 |
+| `ordenanza-regional-10-2023-cr-grm` | Ordenanza Regional N° 10-2023-CR/GRM: Ordenanza Regional que aprueba la modificación del Artículo Tercero de la Ordenanza Regional N° 013-2016-CR/GRM, modificada por el Artículo Segundo de la Ordenanza Regional N° 03-2020-CR/GRM, con la finalidad de actualizar la denominación de las unidades orgánic | 1 | 2023-11-25 to 2023-11-25 |
+| `ordenanza-regional-15-2021-cr-grm` | Ordenanza Regional N° 15-2021-CR/GRM: Declaran de necesidad pública y de interés regional la intangibilidad de la reserva del recurso hídrico de los ríos Chilota y Chincune, y garantizar el agua para uso poblacional y agrícola en la provincia de Ilo, en torno al proyecto “Ampliación de frontera agrí | 1 | 2022-11-10 to 2022-11-10 |
+| `ordenanza-regional-005-2022-cr-grm` | Ordenanza Regional N° 005-2022-CR/GRM: Modifican la Ordenanza Regional N° 09-2016-CR/GRM que modifica la Ordenanza Regional N° 006-2008-CR/GRM, que conforma la Comisión Técnica Regional de Zonificación Ecológica y Económica de Moquegua, en el extremo de la denominación de la Comisión Técnica Regiona | 1 | 2022-09-29 to 2022-09-29 |
+| `ordenanza-regional-006-2022-cr-grm` | Ordenanza Regional N° 006-2022-CR/GRM: Modifican el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional de Moquegua | 1 | 2022-09-23 to 2022-09-23 |
+| `ordenanza-regional-14-2021-cr-grm` | Ordenanza Regional N° 14-2021-CR/GRM: Ordenanza Regional que declara de necesidad pública y de interés regional la creación del Programa Regional de Siembra y Cosecha de Agua  para asegurar el Recurso Hídrico en la Región Moquegua | 1 | 2022-08-26 to 2022-08-26 |
+| `ordenanza-regional-003-2022-cr-grm` | Ordenanza Regional N° 003-2022-CR/GRM: Ordenanza Regional que aprueba el "Plan de Acción Regional de Seguridad Ciudadana Moquegua 2022" | 1 | 2022-06-06 to 2022-06-06 |
+| `ordenanza-regional-004-2022-cr-grm` | Ordenanza Regional N° 004-2022-CR/GRM: Ordenanza Regional que declara de interés regional  el Voluntariado Regional de Ciudadanos y Ciudadanas en el ámbito jurisdiccional de la Región Moquegua | 1 | 2022-06-06 to 2022-06-06 |
+| `ordenanza-regional-002-2022-cr-grm` | Ordenanza Regional N° 002-2022-CR/GRM: Ordenanza Regional que aprueba el "Estudio Especializado de Dinámica Económica Regional del departamento de Moquegua" | 1 | 2022-06-06 to 2022-06-06 |
+| `ordenanza-regional-16-2021-cr-grm` | Ordenanza Regional N° 16-2021-CR/GRM: Ordenanza Regional que declara de necesidad e interés la recuperación, investigación, protección y puesta en valor de los Geoglifos de Chen Chen de la Región de Moquegua | 1 | 2022-04-10 to 2022-04-10 |
+| `ordenanza-regional-17-2021-cr-grm` | Ordenanza Regional N° 17-2021-CR/GRM: Aprueban el Plan Estratégico Regional de Turismo - PERTUR MOQUEGUA 2019 - 2025 | 1 | 2022-04-09 to 2022-04-09 |
+| `ordenanza-regional-03-2021-cr-grm` | Ordenanza Regional N° 03-2021-CR/GRM: Derogan las Ordenanzas Regionales N° 014-2017-CR/GRM, N° 010-2018-CR/GRM y N° 011-2018-CR/GRM; y reconocen a ciudadanos que presentaron carpetas de postulación y realizaron pago de derecho a postulación al Programa Regional de Vivienda - PROREVI en la provincia  | 1 | 2022-04-04 to 2022-04-04 |
+| `ordenanza-regional-001-2022-cr-grm` | Ordenanza Regional N° 001-2022-CR/GRM: Ordenanza Regional que aprueba el Estudio Especializado de Análisis de los Cambios de Cobertura y Uso de la Tierra del departamento de Moquegua | 1 | 2022-03-14 to 2022-03-14 |
+| `ordenanza-regional-13-2021-cr-grm` | Ordenanza Regional N° 13-2021-CR/GRM: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana-2021”, para la Región Moquegua | 1 | 2021-12-05 to 2021-12-05 |
+| `ordenanza-regional-09-2021-cr-grm` | Ordenanza Regional N° 09-2021-CR/GRM: Crean la Red Regional de Mujeres Emprendedoras y Empresarias de la Región Moquegua | 1 | 2021-12-03 to 2021-12-03 |
+| `ordenanza-regional-12-2021-cr-grm` | Ordenanza Regional N° 12-2021-CR/GRM: Aprueban el "Estudio Especializado de Ecosistemas y Hábitat Marino Costero del departamento de Moquegua, como Instrumento Técnico para el Ordenamiento Territorial del departamento de Moquegua, en el marco de la Zonificación Ecológico Económica - ZEE de Moquegua" | 1 | 2021-11-13 to 2021-11-13 |
+| `ordenanza-regional-010-2021-cr-grm` | Ordenanza Regional N° 010-2021-CR/GRM: Aprueban el Reglamento para la Aplicación de la Zonificación Ecológica Económica del departamento de Moquegua | 1 | 2021-10-18 to 2021-10-18 |
+| `ordenanza-regional-011-2021-cr-grm` | Ordenanza Regional N° 011-2021-CR/GRM: Aprueban modificación del Reglamento de Organización y Funciones del Gobierno Regional de Moquegua | 1 | 2021-10-01 to 2021-10-01 |
+| `ordenanza-regional-007-2020-cr-grm` | Ordenanza Regional N° 007-2020-CR/GRM: Aprueban el “Reglamento de Atención de Denuncias Ambientales del Gobierno Regional de Moquegua” | 1 | 2021-07-08 to 2021-07-08 |
+| `ordenanza-regional-006-2020-cr-grm` | Ordenanza Regional N° 006-2020-CR/GRM: Aprueban el Reglamento de Supervisión y Fiscalización Ambiental del Gobierno Regional de Moquegua | 1 | 2021-07-08 to 2021-07-08 |
+| `ordenanza-regional-01-2021-cr-grm` | Ordenanza Regional N° 01-2021-CR/GRM: Ordenanza Regional que declara de interés regional  el Manejo Integrado de las Zonas Marino Costeras en el ámbito del Gobierno Regional de Moquegua y aprueba el Plan de Manejo Integrado de la Zona Marino Costera de Ilo | 1 | 2021-05-23 to 2021-05-23 |
+| `ordenanza-regional-015-2020-cr-grm` | Ordenanza Regional N° 015-2020-CR/GRM: Aprueban el Estudio Especializado de Servicios Ecosistémicos del departamento de Moquegua | 1 | 2021-04-17 to 2021-04-17 |
+| `ordenanza-regional-016-2020-cr-grm` | Ordenanza Regional N° 016-2020-CR/GRM: Aprueban el Reglamento de Audiencias Públicas del Gobierno Regional de Moquegua | 1 | 2021-02-05 to 2021-02-05 |
+| `ordenanza-regional-010-2020-cr-grm` | Ordenanza Regional N° 010-2020-CR/GRM: Declaran Prioridad Pública Regional el Desarrollo Infantil Temprano (DIT) como una Política Pública Regional y conforman la Instancia de Articulación Regional | 1 | 2020-11-21 to 2020-11-21 |
+| `ordenanza-regional-012-2020-cr-grm` | Ordenanza Regional N° 012-2020-CR/GRM: Aprueban el Plan de Competitividad para el Progreso Social Moquegua al 2030 | 1 | 2020-11-27 to 2020-11-27 |
+| `ordenanza-regional-009-2020-cr-grm` | Ordenanza Regional N° 009-2020-CR/GRM: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana de la Región Moquegua para el año 2020” | 1 | 2020-11-27 to 2020-11-27 |
+| `ordenanza-regional-003-2020-cr-grm` | Ordenanza Regional N° 003-2020-CR/GRM: Aprueban como política prioritaria la prevención y erradicación de la violencia contra las mujeres y los integrantes del grupo familiar, modifican la Ordenanza Regional N° 013-2016-CR/GRM y disponen medidas complementarias para el fortalecimiento de la Instanci | 1 | 2020-07-16 to 2020-07-16 |
+| `ordenanza-regional-004-2020-cr-grm` | Ordenanza Regional N° 004-2020-CR/GRM: Modifican el TUPA de la Zona Especial de Desarrollo de Ilo - ZED ILO | 1 | 2020-06-18 to 2020-06-18 |
+| `ordenanza-regional-002-2020-cr-grm` | Ordenanza Regional N° 002-2020-CR/GRM: Declaran día no laborable para los trabajadores que laboran en las dependencias del Gobierno Regional de Moquegua en el ambito de la Provincia de Ilo, el día 26 de mayo de todos los años por celebrarse la creación de la Provincia de Ilo del Departamento de Moqu | 1 | 2020-06-18 to 2020-06-18 |
+| `ordenanza-regional-12-2019-cr-grm` | Ordenanza Regional N° 12-2019-CR/GRM: Ordenanza Regional que declara de necesidad y prioridad pública regional la implementación del proceso de desplazamiento temporal definitivo del personal asistencial y administrativo nombrado del Sector Salud de la Región Moquegua | 1 | 2020-03-13 to 2020-03-13 |
+| `ordenanza-regional-10-2019-cr-grm` | Ordenanza Regional N° 10-2019-CR/GRM: Aprueban la constitución de la  “Mancomunidad Regional Macro Región Sur" | 1 | 2020-02-21 to 2020-02-21 |
+| `ordenanza-regional-001-2020-cr-grm` | Ordenanza Regional N° 001-2020-CR/GRM: Aprueban el Plan Regional de la Micro y Pequeña Empresa con Metas al 2021 con Horizonte al 2030 - Región Moquegua | 1 | 2020-02-20 to 2020-02-20 |
+| `ordenanza-regional-11-2019-cr-grm` | Ordenanza Regional N° 11-2019-CR/GRM: Ordenanza Regional que autoriza y faculta a la AFOCAT Moquegua la emisión de Certificados contra Accidentes de Tránsito para vehículos particulares en su respectiva circunscripción de funcionamiento | 1 | 2020-02-14 to 2020-02-14 |
+| `ordenanza-regional-14-2019-cr-grm` | Ordenanza Regional N° 14-2019-CR/GRM: Ordenanza Regional que declara como Patrimonio Cultural Inmaterial de la Región Moquegua el método tradicional de elaboración del pisco de Moquegua y la protección e impulso de la ruta del pisco de la Región Moquegua | 1 | 2020-02-14 to 2020-02-14 |
+| `ordenanza-regional-06-2019-cr-grm` | Ordenanza Regional N° 06-2019-CR/GRM: Ordenanza que declara de interés regional la priorización de los límites de la Región Moquegua | 1 | 2020-02-07 to 2020-02-07 |
+| `ordenanza-regional-04-2019-cr-grm` | Ordenanza Regional N° 04-2019-CR/GRM: Aprueban conformación del Consejo Regional de Comunidades Campesinas de Moquegua CORECCAMO | 1 | 2019-12-06 to 2019-12-06 |
+| `ordenanza-regional-09-2019-cr-grm` | Ordenanza Regional N° 09-2019-CR/GRM: Declaran feriado no laborable para los trabajadores que laboran en las dependencias públicas del Gobierno Regional de Moquegua, el día 14 de octubre de todos los años | 1 | 2019-10-13 to 2019-10-13 |
+| `ordenanza-regional-07-2019-cr-grm` | Ordenanza Regional N° 07-2019-CR/GRM: Disponen a las instancias correspondientes que las liquidaciones para reconocimiento y pago de la bonificación especial por desempeño del cargo, a favor del personal administrativo del Sector Educación sujeto al régimen del D. Leg. N° 276, debe otorgarse en base | 1 | 2019-10-10 to 2019-10-10 |
+| `ordenanza-regional-020-2018-cr-grm` | Ordenanza Regional N° 020-2018-CR/GRM: Modifican Cuadro de Asignación de Personal Provisional de la Gerencia Regional de Salud Moquegua y sus órganos desconcentrados | 1 | 2018-11-25 to 2018-11-25 |
+| `ordenanza-regional-015-2018-cr-grm` | Ordenanza Regional N° 015-2018-CR/GRM: Rectifican error material en la Ordenanza Regional N° 07-2016-CR/GRM, que aprobó el Reglamento de Organización y Funciones - ROF de la Autoridad Portuaria Regional de Moquegua | 1 | 2018-10-28 to 2018-10-28 |
+| `ordenanza-regional-16-2018-cr-grm` | Ordenanza Regional N° 16-2018-CR/GRM: Ordenanza Regional que aprueba la modificación y actualización del Texto Único de Procedimientos Administrativos de la Gerencia Regional de Vivienda, Construcción y Saneamiento | 1 | 2018-10-04 to 2018-10-04 |
+| `ordenanza-regional-08-2015-cr-grm` | Ordenanza Regional N° 08-2015-CR/GRM: Aprueban Reglamento Complementario en materia de Transporte Terrestre del Ambito Regional de Moquegua | 1 | 2018-09-13 to 2018-09-13 |
+| `ordenanza-regional-07-2018-cr-grm` | Ordenanza Regional N° 07-2018-CR/GRM: Ordenanza que aprueba la conformación de los Consejos Consultivos de Niñas, Niños y Adolescentes en la Región Moquegua | 1 | 2018-09-12 to 2018-09-12 |
+| `ordenanza-regional-10-2018-cr-grm` | Ordenanza Regional N° 10-2018-CR/GRM: Ordenanza Regional que aprueba la modificación del Reglamento de Organización y Funciones del Gobierno Regional | 1 | 2018-08-19 to 2018-08-19 |
+| `ordenanza-regional-03-2018-cr-grm` | Ordenanza Regional N° 03-2018-CR/GRM: Ratifican el Plan Regional de Seguridad Ciudadana 2018 | 1 | 2018-08-01 to 2018-08-01 |
+| `ordenanza-regional-02-2018-cr-grm` | Ordenanza Regional N° 02-2018-CR/GRM: Aprueban el Plan Regional contra la Trata de Personas y Tráfico Ilícito de Migrantes de la Región Moquegua 2018-2021 y el Reglamento Interno y Plan Operativo 2018 | 1 | 2018-08-01 to 2018-08-01 |
+| `ordenanza-regional-05-2018-cr-grm` | Ordenanza Regional N° 05-2018-CR/GRM: Aprueban el Texto Único de Procedimientos Administrativos (TUPA) de la Zona Especial de Desarrollo Ilo - ZED ILO | 1 | 2018-07-10 to 2018-07-10 |
+| `ordenanza-regional-016-2017-cr-grm` | Ordenanza Regional N° 016-2017-CR/GRM: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Gobierno Regional de Moquegua | 1 | 2018-01-24 to 2018-01-24 |
+| `ordenanza-regional-014-2017-cr-grm` | Ordenanza Regional N° 014-2017-CR/GRM: Declaran como necesidad pública regional la creación del Programa de Vivienda Regional | 1 | 2017-12-30 to 2017-12-30 |
+| `ordenanza-regional-013-2017-cr-grm` | Ordenanza Regional N° 013-2017-CR/GRM: Aprueban el "Uso y Registro Homologado y Actualizado del Padrón Nominal a Nivel Distrital de Niñas y Niños Menores de Seis Años de Moquegua" | 1 | 2017-12-30 to 2017-12-30 |
+| `ordenanza-regional-011-2017-cr-grm` | Ordenanza Regional N° 011-2017-CR/GRM: Aprueban modificación del Cuadro de Asignación de Personal Provisional de la Gerencia Regional de Salud Moquegua y sus órganos desconcentrados | 1 | 2017-11-08 to 2017-11-08 |
+| `ordenanza-regional-07-2017-cr-grm` | Ordenanza Regional N° 07-2017-CR/GRM: Aprueban Reglamento de Organización y Funciones de la Gerencia Regional de Salud Moquegua y sus órganos desconcentrados | 1 | 2017-10-07 to 2017-10-07 |
+| `ordenanza-regional-05-2017-cr-grm` | Ordenanza Regional N° 05-2017-CR/GRM: Crean la Mesa de Trabajo Regional Multisectorial por la Persona Adulta Mayor de Moquegua y aprueban otras disposiciones | 1 | 2017-10-05 to 2017-10-05 |
+| `ordenanza-regional-03-2017-cr-grm` | Ordenanza Regional N° 03-2017-CR/GRM: Modifican la Ordenanza Regional N° 006-2009-CR/GRM, respecto del Reglamento de Audiencias Públicas del Gobierno Regional de Moquegua | 1 | 2017-08-25 to 2017-08-25 |
+| `ordenanza-regional-02-2017-cr-grm` | Ordenanza Regional N° 02-2017-CR/GRM: Aprueban Reglamento de Organización y Funciones de la Zona Especial de Desarrollo Ilo | 1 | 2017-08-25 to 2017-08-25 |
+| `ordenanza-regional-04-2017-cr-grm` | Ordenanza Regional N° 04-2017-CR/GRM: Ratifican el Plan Regional de Seguridad Ciudadana 2017 de Moquegua | 1 | 2017-08-24 to 2017-08-24 |
+| `ordenanza-regional-15-2016-cr-grm` | Ordenanza Regional N° 15-2016-CR/GRM: Declaran de  interés regional el proyecto: “Construcción de la Presa Humalso para el mejoramiento del riego en el  valle de Carumas y la habilitación de las pampas de Jaguay y Chinchare con riego tecnificado en la Región Moquegua” | 1 | 2017-02-15 to 2017-02-15 |
+| `ordenanza-regional-09-2015-cr-grm` | Ordenanza Regional N° 09-2015-CR/GRM: Ordenanza que aprueba recomendar el fortalecimiento de mecanismos y estrategias tendientes a lograr la participación ciudadana | 1 | 2016-12-03 to 2016-12-03 |
+| `ordenanza-regional-16-2014-cr-grm` | Ordenanza Regional N° 16-2014-CR/GRM: Establecen obligación de toda persona que presta servicios o labora, en el Gobierno Regional de Moquegua y las instituciones del sector público, de presentar anualmente Declaración Jurada de no ser deudor alimentario moroso | 1 | 2016-11-26 to 2016-11-26 |
+| `ordenanza-regional-11-2014-cr-grm` | Ordenanza Regional N° 11-2014-CR/GRM: Crean el Consejo Regional Multisectorial de Acción por la Infancia y la Adolescencia de la Región Moquegua | 1 | 2016-11-26 to 2016-11-26 |
+| `ordenanza-regional-13-2016-cr-grm` | Ordenanza Regional N° 13-2016-CR/GRM: Aprueban la creación de la "Instancia Regional de Concertación de la Región Moquegua para Erradicar la Violencia contra la Mujer y los Integrantes del Grupo Familiar" | 1 | 2016-11-23 to 2016-11-23 |
+| `ordenanza-regional-12-2015-cr-grm` | Ordenanza Regional N° 12-2015-CR/GRM: Declaran nulidad de oficio de la Ordenanza N° 015-2014-CR/GRM mediante la cual se aprobó la propuesta de Zonificación Económica y Ecológica del departamento de Moquegua | 1 | 2016-11-23 to 2016-11-23 |
+| `ordenanza-regional-05-2016-cr-grm` | Ordenanza Regional N° 05-2016-CR/GRM: Aprueban Plan Regional de Seguridad Ciudadana | 1 | 2016-11-23 to 2016-11-23 |
+| `ordenanza-regional-06-2016-cr-grm` | Ordenanza Regional N° 06-2016-CR/GRM: Dejan sin efecto Disposición Final Única de la Ordenanza N° 005-2015-CR/GRM mediante la cual se aprobó el Reglamento Marco del Proceso del Presupuesto Participativo Regional | 1 | 2016-11-23 to 2016-11-23 |
+| `ordenanza-regional-12-2016-cr-grm` | Ordenanza Regional N° 12-2016-CR/GRM: Aprueban la modificación del Cuadro de Asignación de Personal Provisional de la Gerencia Regional de Salud Moquegua y sus Órganos Desconcentrados | 1 | 2016-09-21 to 2016-09-21 |
+| `ordenanza-regional-09-2016-cr-grm` | Ordenanza Regional N° 09-2016-CR/GRM: Modifican Ordenanza Regional N° 006-2008-CR/GRM, que dispone la constitución de la Comisión Técnica Regional de Zonificación Ecológica, Económica y Ordenamiento Territorial y establece las Funciones de la Comisión Técnica | 1 | 2016-09-18 to 2016-09-18 |
+| `ordenanza-regional-10-2016-cr-grm` | Ordenanza Regional N° 10-2016-CR/GRM: Aprueban la Estrategia Regional de Cambio Climático 2016-2021 de la región Moquegua y su Plan de Implementación | 1 | 2016-09-18 to 2016-09-18 |
+| `ordenanza-regional-02-2016-cr-grm` | Ordenanza Regional N° 02-2016-CR/GRM: Modifican el Texto Único de Procedimientos Administrativos - TUPA, del Gobierno Regional de Moquegua | 1 | 2016-09-03 to 2016-09-03 |
+| `ordenanza-regional-08-2016-cr-grm` | Ordenanza Regional N° 08-2016-CR/GRM: Aprueban el Reglamento de Fiscalización de las Actividades de Pequeña Minería y Minería Artesanal en el departamento de Moquegua | 1 | 2016-08-31 to 2016-08-31 |
+| `ordenanza-regional-03-2016-cr-grm` | Ordenanza Regional N° 03-2016-CR/GRM: Aprueban Reglamento Interno del Consejo de Coordinación Regional del Gobierno Regional de Moquegua | 1 | 2016-08-27 to 2016-08-27 |
+| `ordenanza-regional-14-2014-cr-grm` | Ordenanza Regional N° 14-2014-CR/GRM: Actualizan el Anexo Único del Sistema Regional de Gestión Ambiental | 1 | 2016-08-14 to 2016-08-14 |
+| `ordenanza-regional-02-2015-cr-gr-moq` | Ordenanza Regional N° 02-2015-CR/GR-MOQ: Aprueban la Estrategia Regional de Diversidad Biológica de Moquegua 2014 - 2021 | 1 | 2016-08-14 to 2016-08-14 |
+| `ordenanza-regional-17-2014-cr-grm` | Ordenanza Regional N° 17-2014-CR/GRM: Crean el Fondo Regional de Apoyo Económico y Social del Gobierno Regional Moquegua | 1 | 2016-06-29 to 2016-06-29 |
+| `ordenanza-regional-04-2016-cr-grm` | Ordenanza Regional N° 04-2016-CR/GRM: Aprueban el Plan de Desarrollo Regional Concertado Moquegua hacia el 2021 | 1 | 2016-06-29 to 2016-06-29 |
+| `ordenanza-regional-01-2016-cr-grm` | Ordenanza Regional N° 01-2016-CR/GRM: Modifican la Ordenanza Regional N° 13-2010-CR/GRM, que crea la Unidad de Gestión Educativa Local “San Ignacio de Loyola” - Ichuña | 1 | 2016-04-20 to 2016-04-20 |
+| `ordenanza-regional-11-2015-cr-grm` | Ordenanza Regional N° 11-2015-CR/GRM: Aprueban Cuadro para Asignación de Personal Provisional - CAP P de la Dirección Regional de Salud y sus órganos desconcentrados | 1 | 2016-01-01 to 2016-01-01 |
+| `ordenanza-regional-10-2015-cr-grm` | Ordenanza Regional N° 10-2015-CR/GRM: Aprueban los instrumentos de Gestión CAP, ROF y MOF de la Unidad de Gestión Educativa Local “San Ignacio de Loyola” con sede en el distrito de Ichuña. | 1 | 2015-10-25 to 2015-10-25 |
+| `ordenanza-regional-07-2015-cr-grm` | Ordenanza Regional N° 07-2015-CR/GRM: Restituyen vigencia de la Ordenanza N° 011-2010-CR/GRM e incorporan sus alcances en el Reglamento del Programa de Apoyo Alimentario | 1 | 2015-08-29 to 2015-08-29 |
+| `ordenanza-regional-04-2015-cr-grm` | Ordenanza Regional N° 04-2015-CR/GRM: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Energía y Minas Moquegua | 1 | 2015-07-11 to 2015-07-11 |
+| `ordenanza-regional-012-2011-cr-grm` | Ordenanza Regional N° 012-2011-CR/GRM: Crean la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS | 1 | 2011-09-10 to 2011-09-10 |
+| `ordenanza-regional-003-2015-cr-grm` | Ordenanza Regional N° 003-2015-CR/GRM: Aprueban la inclusión de Procedimientos del Equipo de Fiscalización, Control  y Vigilancia en el Texto Único de Procedimientos Administrativos del Gobierno Regional de Moquegua - Dirección Regional de Salud - Dirección de Medicamentos, Insumos y Drogas | 1 | 2015-06-13 to 2015-06-13 |
+| `ordenanza-regional-008-2008-cr-grm` | Ordenanza Regional N° 008-2008-CR/GRM: Aprueban el Nuevo Reglamento Interno del Consejo Regional del Gobierno Regional | 1 | 2009-09-16 to 2009-09-16 |
+| `ordenanza-regional-01-2010-cr-grm` | Ordenanza Regional N° 01-2010-CR/GRM: Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional de Moquegua | 1 | 2010-12-12 to 2010-12-12 |
+| `ordenanza-regional-010-2009-cr-grm` | Ordenanza Regional N° 010-2009-CR/GRM: Aprueban Reglamento Interno del Consejo Regional de Moquegua | 1 | 2010-01-25 to 2010-01-25 |
+| `ordenanza-regional-08-2012-cr-grm` | Ordenanza Regional N° 08-2012-CR/GRM: Aprueban Texto Único de Procedimientos Administrativos del Centro de Exportación, Transformación, Industria, Comercialización y Servicios de Ilo - CETICOS ILO | 1 | 2012-07-26 to 2012-07-26 |
+
+The build made 126 commits:
+
+| Commits | Kind |
+| ---: | --- |
+| 126 | first version of an act |
+| 0 | one law on its in-force day |
+| 0 | changes no amendment note explains, credited to the publisher |
+
+Other counts:
+- 1 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
+- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 126 laws in the record.
+- 252 tags.
+
+## Dates
+
+Each commit is dated at noon (America/Lima) on the day the change took effect. The other dates, enacted and published, are trailers.
+
+When a law gives no date of its own, the default rule applies: Constitución Política del Perú, art. 109: "La ley es obligatoria desde el día siguiente de su publicación en el diario oficial, salvo disposición contraria de la misma ley que posterga su vigencia en todo o en parte." Ley Orgánica de Gobiernos Regionales (Ley 27867), art. 42, applies the same rule to regional norms: in force from the day after publication in El Peruano unless the norm itself names another day. https://www.congreso.gob.pe
+
+## How the history is built
+
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+
+- Corpus: sha256 `ed9fc94d1b5c99152f1e4bf06360ab2d88adeabfb2d67a5839b517199dd5686e` (1755099 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Python 3.12.10; git version 2.46.0.windows.1.
+
+## Checks
+
+126 versions of 126 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+
+No second build of this corpus has been compared yet.
+
+## Decisions made by hand
+
+- Source: the Diario Oficial El Peruano, Normas Legales, which publishes every ordinance of Gobierno Regional de Moquegua as enacted. It publishes no consolidated texts, so each ordinance is shown once, as published (the oldest version available), dated on the day it took effect. An ordinance that amends another is its own entry; its changes are not applied to the earlier text.
+- In-force day: the ordinance's own vigencia clause (the day after publication, from publication, or a named date); otherwise the day after publication (Constitución, art. 109; Ley 27867, art. 42). An ordinance whose vigencia clause this reader cannot resolve is left out.
+- Text: the ordinance is cut from El Peruano's PDF extract, from the end of the previous norm to the operation number printed under it. El Peruano's own furniture (running heads, section headings, its summary title above the norm, the operation number) is not part of the text. Annexes that El Peruano does not print are not included.
+- Units: the heading (encabezado: number, considerandos and enacting formula, everything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (dispositions, signatures). Nothing printed between those bounds is dropped. One paragraph per line, spacing normalised, words broken at a line end joined.
+- Ordinances are added newest first, in parts of about 50.
+
+## What AI did and did not do
+
+The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+
+No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
+
+The commit messages are written by `build.py` from the source data.
+
+Model use at data-build time:
+- A model (Claude) wrote the fetch and parse code and chose which ordinances to include; it wrote no law text. Every word of law comes from El Peruano's own PDF extracts.

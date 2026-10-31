@@ -1,0 +1,11 @@
+{
+  "path": "pe-moq",
+  "code": "PE-MOQ",
+  "name": "Moquegua",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-moquegua-law",
+  "build": "built: 126 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
